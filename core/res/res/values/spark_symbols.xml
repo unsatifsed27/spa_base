@@ -247,4 +247,8 @@
     <!-- Hide IME space -->
     <java-symbol type="dimen" name="navigation_bar_frame_height_hide_ime" />
     <java-symbol type="dimen" name="navigation_bar_frame_height_landscape_hide_ime" />
+
+    <!-- Camera -->
+    <java-symbol type="array" name="config_cameraAuxPackageAllowList" />
+    <java-symbol type="array" name="config_cameraAuxPackageExcludeList" />
 </resources>
